@@ -1,0 +1,5 @@
+Error Guidebook
+
+
+Error code 3:
+	Error code 3 is caused in the installation phase of Deepsea when the program is checking if the user want to add Deepsea to path and create a desktop shorcut and 	cannot find a explainable answer. (This is a program based error if the variables has been renamed recently)
